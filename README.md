@@ -11,4 +11,5 @@ The kinds of signals we typically analyze with these tools include:
 
 These tools will likely need tweaking and validation for your particular analysis protocol. 
 Feel free to reach out via email: cgwilson@llu.edu or drcgw@yahoo.com
+
 Chris Wilson
